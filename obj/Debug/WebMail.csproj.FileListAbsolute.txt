@@ -1,5 +1,0 @@
-C:\Users\Karan\Desktop\NewsIndia\EmailCode2\bin\WebMail.dll.config
-C:\Users\Karan\Desktop\NewsIndia\EmailCode2\bin\WebMail.dll
-C:\Users\Karan\Desktop\NewsIndia\EmailCode2\bin\WebMail.pdb
-C:\Users\Karan\Desktop\NewsIndia\EmailCode2\obj\Debug\WebMail.dll
-C:\Users\Karan\Desktop\NewsIndia\EmailCode2\obj\Debug\WebMail.pdb
